@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syahril May Mubdi</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-<img align="right" alt="coding" width="250" src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif">
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/Rp0U7bdOhSUAAAAj/anime.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syamaydev&label=Profile%20views&color=0e75b6&style=flat" alt="syamaydev" /> </p>
 
