@@ -1,3 +1,5 @@
+![snake gif](https://github.com/SyamayDev/SyamayDev/blob/output/github-contribution-grid-snake.svg)
+
 <h1 align="center">Hi 👋, I'm Syahril May Mubdi</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
@@ -36,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syamaydev&" alt="syamaydev" /></p>
 
-![snake gif](https://github.com/SyamayDev/SyamayDev/blob/output/github-contribution-grid-snake.svg)
+
