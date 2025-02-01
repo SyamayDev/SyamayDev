@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Syahril May Mubdi</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/4I9G.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syamaydev&label=Profile%20views&color=0e75b6&style=flat" alt="syamaydev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -15,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.instagram.com/syahrilmaymubdimandai/](https://www.instagram.com/syahrilmaymubdimandai/)
 
-- ⚡ Fun fact **I like building muscle**
+- ⚡ Fun fact **I like building muscle💪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
