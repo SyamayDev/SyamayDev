@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syamaydev&show_icons=true&locale=en" alt="syamaydev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syamaydev&" alt="syamaydev" /></p>
+
+![snake gif](https://github.com/SyamayDev/SyamayDev/blob/output/github-contribution-grid-snake.svg)
