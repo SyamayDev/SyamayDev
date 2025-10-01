@@ -19,6 +19,12 @@
 
 - ⚡ Fun fact **I like building muscle💪**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub Snake" src="dist/github-snake.svg" />
+</picture>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syahril may mubdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syahril may mubdi" height="30" width="40" /></a>
