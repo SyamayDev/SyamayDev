@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [PPDB Website](https://github.com/SyamayDev/TugasCISyahril)
+- 🔭 I’m currently working on [SI-Raju Website](https://syamaydev.github.io/react-sistemrekomendasijurusan/)
 
 - 🌱 I’m currently learning **CodeIgniter3**
 
 - 💬 Ask me about **html,css,javascript,php**
 
-- 📫 How to reach me **syahrilmaymubdi@gmail.com**
+- 📫 How to reach me **syahrilmaymubdi2505@gmail.com**
 
-- 📄 Know about my experiences [https://www.instagram.com/syahrilmaymubdimandai/](https://www.instagram.com/syahrilmaymubdimandai/)
+- 📄 Know about my experiences [https://www.instagram.com/syahrilmaimubdymandai/](https://www.instagram.com/syahrilmaimubdymandai/)
 
 - ⚡ Fun fact **I like building muscle💪**
 
@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/syahril may mubdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syahril may mubdi" height="30" width="40" /></a>
 <a href="https://fb.com/neko neko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neko neko" height="30" width="40" /></a>
-<a href="https://instagram.com/syahrilmaymubdimandai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syahrilmaymubdimandai" height="30" width="40" /></a>
+<a href="https://www.instagram.com/syahrilmaimubdymandai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syahrilmaimubdymandai" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/channelbelajar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channelbelajar" height="30" width="40" /></a>
 </p>
 
