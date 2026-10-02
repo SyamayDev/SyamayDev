@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syahril May Mubdi</h1>
+<h1 align="center">Hi 👋, I'm Syahril Maimubdy</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
 <img align="right" alt="coding" width="250" src="https://media.tenor.com/Rp0U7bdOhSUAAAAj/anime.gif">
