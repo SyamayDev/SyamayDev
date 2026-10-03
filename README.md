@@ -171,6 +171,40 @@ School bullying reporting platform with a simple reporting flow and a counselor 
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=38BDF8&width=100%" width="100%"/>
 
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+</div>
+
+<br/>
+
+## 🎮 Spotify / Now Playing (opsional, perlu setup token)
+
+<div align="center">
+  <img src="https://novatorem-flax.vercel.app/api/spotify" alt="now playing"/>
+</div>
+
+<br/>
+
+## 🗺️ Visitor Map
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/syamaydev/count.svg" alt="visitor map"/>
+</div>
+
+<br/>
+
+## 🏅 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=syamaydev&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=38BDF8&width=100%" width="100%"/>
+
 <div align="center">
 
 ### 📫 Let's Connect
