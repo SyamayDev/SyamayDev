@@ -28,7 +28,7 @@ const syahril = {
   location: "Indonesia 🇮🇩",
   focus: ["Frontend", "Backend", "UI/UX"],
   currentlyBuilding: "SI-Raju",
-  currentlyLearning: "CodeIgniter 3",
+  currentlyLearning: "CodeIgniter 4",
   philosophy: "Code wants to be simple.",
 };
 ```
@@ -174,34 +174,6 @@ School bullying reporting platform with a simple reporting flow and a counselor 
 </div>
 
 <br/>
-
-## 🎮 Spotify / Now Playing (opsional, perlu setup token)
-
-<div align="center">
-  <img src="https://novatorem-flax.vercel.app/api/spotify" alt="now playing"/>
-</div>
-
-<br/>
-
-## 🗺️ Visitor Map
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/syamaydev/count.svg" alt="visitor map"/>
-</div>
-
-<br/>
-
-## 🏅 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syamaydev&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies"/>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=38BDF8&width=100%" width="100%"/>
-
-<div align="center">
 
 ### 📫 Let's Connect
 
