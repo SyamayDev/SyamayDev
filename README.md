@@ -161,15 +161,11 @@ School bullying reporting platform with a simple reporting flow and a counselor 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syamaydev/syamaydev/output/snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syamaydev/syamaydev/output/snake.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/syamaydev/syamaydev/output/snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyamayDev/SyamayDev/main/dist/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyamayDev/SyamayDev/main/dist/github-snake.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/SyamayDev/SyamayDev/main/dist/github-snake.svg" width="100%"/>
   </picture>
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=38BDF8&width=100%" width="100%"/>
 
 ## 💬 Random Dev Quote
 
