@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/syahrilmaimubdy/"><img src="https://img.shields.io/badge/Facebook-0F0C29?style=for-the-badge&logo=facebook&logoColor=1877F2"/></a>
 <a href="https://www.youtube.com/c/channelbelajar"><img src="https://img.shields.io/badge/YouTube-0F0C29?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=syamaydev&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=syamaydev.syamaydev&color=38BDF8&style=for-the-badge" alt="views"/>
 
 </div>
 
