@@ -72,7 +72,7 @@ Sharpening backend skills — database integration, MVC architecture, and struct
 
 **Frameworks & Libraries**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vite,laravel,codeigniter,bootstrap,tailwind&perline=6"/>
+<img src="https://skillicons.dev/icons?i=react,vite,laravel,bootstrap,tailwind&perline=6"/>
 
 **Database & Backend**
 <br/>
